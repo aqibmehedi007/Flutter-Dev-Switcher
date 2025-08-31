@@ -71,14 +71,3 @@ Managing multiple SDK versions and GitHub accounts can be tedious. This widget m
 This project is licensed under the MIT License.
 
 ---
-
-## 🔗 Repository Name Suggestion
-
-**`flutterdesk-switcher`**
-(A creative blend of Flutter + Desktop + Switcher)
-
-Other possible names:
-
-* `sdk-ssh-manager`
-* `flutter-dev-widget`
-* `devswitch-desktop`
